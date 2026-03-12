@@ -1,3 +1,3 @@
-# rsschool-devops-course-tasks
+# devops-tasks
 - Prepared by Bekaiym Egemkulova @begemkulova.
 devops
